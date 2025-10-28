@@ -169,7 +169,7 @@
 
 ## 5. [ ] Jumper wires (male-to-female).
 
-![Jumper_maleTofemale | 700](./Images/Jumper_Wire_MaleToFemale.jpg)
+![Jumper_maleTofemale | 700](./Images/Jumper_wire_MaleToFemale.jpg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
@@ -195,7 +195,7 @@
 
 ## 6. [ ] Jumper wires (female-to-female).
 
-![Jumper_Wire | 700](./Images/Jumper_Wire_FemaleToFemale.jpg)
+![Jumper_Wire | 700](./Images/Jumper_wire_FemaleToFemale.jpg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
