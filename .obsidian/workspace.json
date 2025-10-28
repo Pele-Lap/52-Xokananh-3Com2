@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search information of Microprocessor and Microcontroller.md",
+                "file": "Homework_aduino_kit/Homework_Arduino_Kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search information of Microprocessor and Microcontroller"
+              "title": "Homework_Arduino_Kit"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cda1d38d10a584a2",
@@ -170,5 +171,29 @@
     }
   },
   "active": "b9dc535d73a7fb63",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Homework_aduino_kit/Images/74HC595_Chip.png",
+    "Homework_aduino_kit/Images/Unconfirmed 874228.crdownload",
+    "Homework_aduino_kit/Images/Real_time_Clock_Module_DS1302.webp",
+    "Homework_aduino_kit/Images/Unconfirmed 804769.crdownload",
+    "Homework_aduino_kit/Images/Stepper_motor_driver_board.webp",
+    "Homework_aduino_kit/Images/Unconfirmed 147425.crdownload",
+    "Homework_aduino_kit/Images/Stepper_motor.jpg",
+    "Homework_aduino_kit/Images/Unconfirmed 980849.crdownload",
+    "Homework_aduino_kit/Images/Servo_motor.jpg",
+    "Homework_aduino_kit/Images/Unconfirmed 215059.crdownload",
+    "Homework_aduino_kit/Images/Relay_module.jpg",
+    "Homework_aduino_kit/Images/Unconfirmed 233667.crdownload",
+    "Homework_aduino_kit/Images/4x4_Matrix_Keyboard_Module.jpg",
+    "Homework_aduino_kit/Images/Unconfirmed 993715.crdownload",
+    "Homework_aduino_kit/Images/Joystick_module.webp",
+    "Homework_aduino_kit/Images/Unconfirmed 441532.crdownload",
+    "Homework_aduino_kit/Images/Infrared_remote_control.jpg",
+    "Homework_aduino_kit/Images/Unconfirmed 448983.crdownload",
+    "Homework_aduino_kit/Images/Infrared_receiver.webp",
+    "Homework_aduino_kit/Images/Unconfirmed 195898.crdownload",
+    "Homework_aduino_kit/Images/RFID_tag.jpg",
+    "Homework_aduino_kit/Homework_Arduino_Kit.md",
+    "Untitled.md"
+  ]
 }
