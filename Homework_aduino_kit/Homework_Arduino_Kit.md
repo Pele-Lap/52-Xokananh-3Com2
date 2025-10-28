@@ -4,7 +4,7 @@
 
 ## 1. [ ]Arduino Uno board
 
-![Arduino | 700](./images/Arduino_Uno_Board.png)
+![Arduino | 700](./Images/Arduino_Uno_Board.png)
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
 **Arduino Uno** ແມ່ນແຜງວົງຈອນໄມໂຄຣຄອນໂທນເລີ (Microcontroller Board) ແບບເປີດເຜີຍແຫຼ່ງຂໍ້ມູນ (Open-Source) ທີ່ອີງໃສ່ຊິບ **ATmega328P**. ມັນຖືກອອກແບບມາເພື່ອໃຫ້ຜູ້ຄົນສາມາດສ້າງໂຄງການອີເລັກໂທຣນິກແບບໂຕ້ຕອບໄດ້ງ່າຍຂຶ້ນ.
@@ -48,7 +48,7 @@
 
 ## 2. [ ] Breadboards
 
-![breadboard | 700](./images/breadboard.jpg)
+![breadboard | 700](./Images/breadboard.jpg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
@@ -84,7 +84,7 @@
 
 ## 3. [ ] USB cable.
 
-![USB_Cable | 700](./images/USB_Cable.jpeg)
+![USB_Cable | 700](./Images/USB_Cable.jpeg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
@@ -140,7 +140,7 @@
 
 ## 4. [ ] Jumper wires (male-to-male).
 
-![Jumper_maleTomale | 700](./images/Jumper_Wire_MaleToMale.jpg)
+![Jumper_maleTomale | 700](./Images/Jumper_Wire_MaleToMale.jpg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
@@ -169,7 +169,7 @@
 
 ## 5. [ ] Jumper wires (male-to-female).
 
-![Jumper_maleTofemale | 700](./images/Jumper_Wire_MaleToFemale.jpg)
+![Jumper_maleTofemale | 700](./Images/Jumper_Wire_MaleToFemale.jpg)
 
 #### 1. ອະທິບາຍອຸປະກອນແມ່ນຫຍັງ?
 
